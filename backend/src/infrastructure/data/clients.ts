@@ -1,0 +1,42 @@
+export const clients = [
+    {
+        "_id": 1,
+        "docType": "nif",
+        "docNum": "11111111A",
+        "email": "client1@parlem.com",
+        "customerId": 111111,
+        "givenName": "Mario",
+        "familyName1": "Parlem",
+        "phone": 656945875,
+    },
+    {
+        "_id": 2,
+        "docType": "nie",
+        "docNum": "22222222B",
+        "email": "client2@parlem.com",
+        "customerId": 222222,
+        "givenName": "Enriqueta",
+        "familyName1": "Telecom",
+        "phone": 754587458,
+    },
+    {
+        "_id": 3,
+        "docType": "nif",
+        "docNum": "33333333C",
+        "email": "client3@parlem.com",
+        "customerId": 333333,
+        "givenName": "Julio",
+        "familyName1": "Telecom",
+        "phone": 345474587,
+    },
+    {
+        "_id": 4,
+        "docType": "nif",
+        "docNum": "44444444D",
+        "email": "client4@parlem.com",
+        "customerId": 444444,
+        "givenName": "Mariana",
+        "familyName1": "Parlem",
+        "phone": 974812458,
+    }
+]
